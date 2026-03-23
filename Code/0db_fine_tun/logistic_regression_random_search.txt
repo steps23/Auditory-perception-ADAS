@@ -1,0 +1,1 @@
+{'solver': 'saga', 'penalty': 'l2', 'max_iter': 80, 'class_weight': None}

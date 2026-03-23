@@ -1,0 +1,1 @@
+{'subsample': 0.7, 'n_estimators': 400, 'min_samples_leaf': 20, 'max_features': None, 'max_depth': 9, 'loss': 'log_loss', 'learning_rate': 0.1}

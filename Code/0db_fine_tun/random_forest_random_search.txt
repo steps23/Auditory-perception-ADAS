@@ -1,0 +1,1 @@
+{'n_estimators': 350, 'min_samples_split': 20, 'min_samples_leaf': 7, 'max_features': 'sqrt', 'max_depth': 21, 'criterion': 'log_loss', 'class_weight': 'balanced', 'ccp_alpha': 0.0, 'bootstrap': True}
